@@ -45,6 +45,7 @@ From peer-reviewed publications:
 https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE182371 
 
 Status: rebuilding as working code (Nov 2026).
+Code developed with AI assistance; all code reviewed and tested by the author.
 
 
 
