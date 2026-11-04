@@ -44,7 +44,7 @@ From peer-reviewed publications:
 ---Lena Neufeld et al. ,Microengineered perfusable 3D-bioprinted glioblastoma model for in vivo mimicry of tumor microenvironment.Sci. Adv.7,eabi9119(2021).DOI:[10.1126/sciadv.abi9119]([https://doi.org/10.1126/sciadv.abi9119] & 
 https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE182371 
 
-in progress...
+Status: rebuilding as working code (Nov 2026).
 
 
 
