@@ -14,7 +14,7 @@ No intercept term appears in the printed equation.
 ## Coefficients (as printed, in order)
 | Gene | Coefficient | HU6800 probe set |
 |---|---|---|
-| AR | -.0098009 | M23263_at |
+| AR | -0.0098009 | M23263_at |
 | cJun | +0.0128283| J04111_at |
 | STAT1 | +0.0254552| AFFX-HUMISGF3A/M97935_MA_at |
 | PKC | -0.0017589 | X06318_at |
@@ -30,6 +30,6 @@ No intercept term appears in the printed equation.
 High RSI = radioresistance.
 
 ## Open questions
-- Are ranks 1-10 used as is, or rescaled?
-- Which direction does "rank-ordered" go for tied expression values?
+- Are ranks 1-10 used as is, or rescaled? 
+- Update: rescaling is probably not applied, and tie handling is still unknown.
 
