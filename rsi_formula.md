@@ -14,16 +14,16 @@ No intercept term appears in the printed equation.
 ## Coefficients (as printed, in order)
 | Gene | Coefficient | HU6800 probe set |
 |---|---|---|
-| AR | | M23263_at |
-| cJun | | J04111_at |
-| STAT1 | | AFFX-HUMISGF3A/M97935_MA_at |
-| PKC | | X06318_at |
-| RelA | | U33838_at |
-| cABL | | X16416_at |
-| SUMO1 | | U83117_at |
-| CDK1 | | U24153_at |
-| HDAC | | D50405_at |
-| IRF1 | | L05072_s_at |
+| AR | -.0098009 | M23263_at |
+| cJun | +0.0128283| J04111_at |
+| STAT1 | +0.0254552| AFFX-HUMISGF3A/M97935_MA_at |
+| PKC | -0.0017589 | X06318_at |
+| RelA |-0.0038171 | U33838_at |
+| cABL | +0.1070213| X16416_at |
+| SUMO1 | -0.0002509| U83117_at |
+| CDK1 | -0.0092431| U24153_at |
+| HDAC | -0.0204469| D50405_at |
+| IRF1 | -0.0441683| L05072_s_at |
 
 ## Training data
 48 NCI-60 cancer cell lines; outcome SF2; Affymetrix HU6800, MAS 5.0.
