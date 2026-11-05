@@ -1,4 +1,4 @@
-# RSI-like-ToyTwins-
+# RSI-like-ToyTwins
 **Background & motivation:** 
 - Radiotherapy (RT) outcomes vary widely between patients; 
 - Genomic radiosensitivity signatures like RSI (RadioSensitivity Index) can predict response in glioblastoma (GB) and breast cancer (triple negative breast cancer: TNBC) 
